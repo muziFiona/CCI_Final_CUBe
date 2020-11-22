@@ -1,5 +1,3 @@
-# CCI_Final_CUBe
-
 ---
 slug: "/fiona-lei"
 artist: "Fiona Lei"
