@@ -2,7 +2,7 @@
 slug: "/fiona-lei"
 artist: "Fiona Lei"
 title: "CUBe"
-thumbnail: "thumbnail.jpg"
+thumbnail: "CUBe_thumbnail.jpg"
 ---
 
 Download Available at: https://muzitua.itch.io/cube Windows only
@@ -14,4 +14,11 @@ CUBe is a digital installation that allows you to take control over shapes and s
 <br />
 
 
-![Two hands in the dark © Vincent van Gogh](image.png)
+![Project look](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_01.png)
+
+
+![Installation shape](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_05.png)
+
+![Textures](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_textures.jpg)
+
+
