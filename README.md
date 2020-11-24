@@ -16,6 +16,9 @@ CUBe is a digital installation that allows you to take control over shapes and s
 
 ![Project look](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_01.png)
 
+The concept of this piece is to split a cube into 3 equivalent parts, representing fragments of the content we receive in daily life. This piece is to visualise how information is being reshaped into different forms when you interact with the 3D models. The different combination is generated from the cube, the substance is the same but is transformed, and visual is different from the original cube. So as the media we get in touch, a movie transfers a book into moving images that express differently on screen; a book transforms the speech we say or our imagination. 
+
+>Concept comes from Marshall McLuhan, Understanding Media
 
 ![Installation shape](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_05.png)
 
