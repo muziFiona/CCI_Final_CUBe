@@ -22,6 +22,8 @@ The concept of this piece is to split a cube into 3 equivalent parts, representi
 
 ![Installation shape](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_05.png)
 
+Animated textures strengthen the sense of media transformation; textures are mapped over the 3D models which you view its appearance with the form that is shown. No one can really see the complete animation with the model structures that are generated for you, which is to emphasise the transformation of media. Texture as the content and the changeable forms as the medium; players can change the forms they receive information, but will never see the complete information as the message that is presented to you is already designed.
+
 ![Textures](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Process/Images/CUBe_textures.jpg)
 
 
