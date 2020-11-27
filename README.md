@@ -10,7 +10,7 @@
 
 [Project Report](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Project_Report.md)
 
-[Project Log](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Chong_In_Lei_PROJECT_LOG.pdf)
+[Project Log](https://github.com/muziFiona/CCI_Final_CUBe/blob/main/Chong_In_Lei_PROJECT_LOG.pdf) (download if you are not able to view pdf online)
 
 <br />
 
